@@ -1,0 +1,1 @@
+{"description":"One-page front page summing up Wednesday 25 November 2026 world news in 31 dated stories.","name":"news-image-20261125","private":true,"scripts":{"build":"python3 compose.py","run":"node main.ts"},"type":"module"}
